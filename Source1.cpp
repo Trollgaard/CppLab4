@@ -40,7 +40,7 @@ void main()
 	try
 	{
 		Stacken<int> minStack;
-		for (int i = 0; i < 100; i++)
+		for (int i = 0; i < 101; i++)
 		{
 			//text = rand()%100; //string
 			//minStack.push(text); //string
